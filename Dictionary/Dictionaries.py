@@ -1,5 +1,4 @@
-# EASY FUNCTIONS
-
+# EASY 
 # 1. Dictionary Basics
 def invert_dictionary(d):
     return {v: k for k, v in d.items()}
@@ -19,7 +18,7 @@ dict2 = {"b": 3, "c": 4}
 print(merge_dictionaries(dict1, dict2))  
 
 
-# MEDIUM FUNCTIONS
+# MEDIUM 
 
 # 1. Dictionary Comprehensions
 def word_frequencies(text):
